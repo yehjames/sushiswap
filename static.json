@@ -1,4 +1,4 @@
 {   
-    "root": "/app/bin/",
+    "root": "/",
     "clean_urls": true
 }
