@@ -1,5 +1,4 @@
 {   
-    "root": "/",
     "routes": {
       "/*.html": "index.html"
     }
